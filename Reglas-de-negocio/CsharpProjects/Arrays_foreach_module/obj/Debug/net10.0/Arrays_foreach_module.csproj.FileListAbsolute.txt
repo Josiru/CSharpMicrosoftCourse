@@ -1,0 +1,15 @@
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\bin\Debug\net10.0\Arrays_foreach_module.exe
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\bin\Debug\net10.0\Arrays_foreach_module.deps.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\bin\Debug\net10.0\Arrays_foreach_module.runtimeconfig.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\bin\Debug\net10.0\Arrays_foreach_module.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\bin\Debug\net10.0\Arrays_foreach_module.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.AssemblyInfoInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.AssemblyInfo.cs
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.csproj.CoreCompileInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.sourcelink.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\refint\Arrays_foreach_module.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\Arrays_foreach_module.genruntimeconfig.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Reglas-de-negocio\CsharpProjects\Arrays_foreach_module\obj\Debug\net10.0\ref\Arrays_foreach_module.dll

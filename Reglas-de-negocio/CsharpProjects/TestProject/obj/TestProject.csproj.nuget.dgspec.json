@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\siran.laborin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siran.laborin\\AppData\\Roaming\\NuGet\\NuGet.Config"

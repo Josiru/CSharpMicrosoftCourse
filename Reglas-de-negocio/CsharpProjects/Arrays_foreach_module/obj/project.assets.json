@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\Arrays_foreach_module\\Arrays_foreach_module.csproj",
+      "projectName": "Arrays_foreach_module",
+      "projectPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\Arrays_foreach_module\\Arrays_foreach_module.csproj",
       "packagesPath": "C:\\Users\\siran.laborin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\siran.laborin\\Documents\\Reglas de negocio\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Reglas-de-negocio\\CsharpProjects\\Arrays_foreach_module\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siran.laborin\\AppData\\Roaming\\NuGet\\NuGet.Config"
