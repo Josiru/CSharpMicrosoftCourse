@@ -1,0 +1,15 @@
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\bin\Debug\net10.0\CommentsOnCode.exe
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\bin\Debug\net10.0\CommentsOnCode.deps.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\bin\Debug\net10.0\CommentsOnCode.runtimeconfig.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\bin\Debug\net10.0\CommentsOnCode.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\bin\Debug\net10.0\CommentsOnCode.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.AssemblyInfoInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.AssemblyInfo.cs
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.csproj.CoreCompileInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.sourcelink.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\refint\CommentsOnCode.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\CommentsOnCode.genruntimeconfig.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\CommentsOnCode\obj\Debug\net10.0\ref\CommentsOnCode.dll
