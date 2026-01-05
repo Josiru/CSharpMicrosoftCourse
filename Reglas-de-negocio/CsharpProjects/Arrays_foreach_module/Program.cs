@@ -21,7 +21,7 @@ Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to p
 */
 
 //////////////////////////////////// Array of Strings
-string[] names = {"Rowena, Robin, Bao"};
+/*string[] names = {"Rowena, Robin, Bao"};
 foreach(string name in names)
 {
     Console.WriteLine(name);
@@ -40,3 +40,16 @@ foreach (int items in inventory)
 }
 
 Console.WriteLine($"We have {sum} items in inventory");
+*/
+
+//////////////////////////////// Fraudulent order challange
+
+string[] fraudulentOrderIDs = ["B123","C234","A345","C15","B177","G3003","C235","B179"];
+
+foreach (string ID in fraudulentOrderIDs)
+{
+    if (ID.StartsWith("B"))
+    {
+        Console.WriteLine(ID);
+    }
+}

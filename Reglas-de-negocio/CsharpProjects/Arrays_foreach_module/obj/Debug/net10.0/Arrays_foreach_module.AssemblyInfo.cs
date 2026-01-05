@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays_foreach_module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0212abf746f204720baca02bb0fe7df3fed357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45da4270bc0bac2d1bb8270fa42fb62df1144366")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays_foreach_module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays_foreach_module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
