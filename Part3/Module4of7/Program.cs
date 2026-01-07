@@ -57,3 +57,38 @@ do
 Console.WriteLine($"You entered ({CNumericValue}) has been acepted");
 */
 
+/////mini project 2
+/// 
+/*
+using System.Diagnostics;
+using System.Transactions;
+
+string? CUserEntry;
+string CRole;
+bool CValidEntry = false;
+
+Console.WriteLine("Enter your role name (Administration, Manager, User)");
+
+do
+{
+    CUserEntry = Console.ReadLine();
+    if (CUserEntry != null)
+    {
+        CRole = CUserEntry.ToLower().Trim();
+        if (CRole == "administrator" || CRole == "manager" || CRole == "user")
+            CValidEntry = true;
+        else
+            Console.WriteLine($"The role name that you entered, ({CUserEntry}) is not valid. Enter your role name (Administrator, Manager, User");
+    }
+}while(!CValidEntry);
+
+Console.WriteLine($"Your input value {CUserEntry.Trim()} has been accepted");*/
+
+//Mini Project 3
+string[] CMyStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+int CPeriodLocation = 0;
+
+foreach (string CString in CMyStrings)
+{
+    
+}
