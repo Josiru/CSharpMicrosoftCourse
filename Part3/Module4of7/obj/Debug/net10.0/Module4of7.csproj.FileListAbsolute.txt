@@ -1,0 +1,15 @@
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\bin\Debug\net10.0\Module4of7.exe
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\bin\Debug\net10.0\Module4of7.deps.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\bin\Debug\net10.0\Module4of7.runtimeconfig.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\bin\Debug\net10.0\Module4of7.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\bin\Debug\net10.0\Module4of7.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.AssemblyInfoInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.AssemblyInfo.cs
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.csproj.CoreCompileInputs.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.sourcelink.json
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\refint\Module4of7.dll
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.pdb
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\Module4of7.genruntimeconfig.cache
+C:\Users\siran.laborin\Documents\GitCSharp\CSharpMicrosoftCourse\Part3\Module4of7\obj\Debug\net10.0\ref\Module4of7.dll

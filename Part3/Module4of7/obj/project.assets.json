@@ -8,26 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rslab\\.nuget\\packages\\": {}
+    "C:\\Users\\siran.laborin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rslab\\Documents\\Projects\\LearnCsharp\\CsharpProjects\\CSharpMicrosoftCourse\\Part3\\Module4of7\\Module4of7.csproj",
+      "projectUniqueName": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Part3\\Module4of7\\Module4of7.csproj",
       "projectName": "Module4of7",
-      "projectPath": "C:\\Users\\rslab\\Documents\\Projects\\LearnCsharp\\CsharpProjects\\CSharpMicrosoftCourse\\Part3\\Module4of7\\Module4of7.csproj",
-      "packagesPath": "C:\\Users\\rslab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rslab\\Documents\\Projects\\LearnCsharp\\CsharpProjects\\CSharpMicrosoftCourse\\Part3\\Module4of7\\obj\\",
+      "projectPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Part3\\Module4of7\\Module4of7.csproj",
+      "packagesPath": "C:\\Users\\siran.laborin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\siran.laborin\\Documents\\GitCSharp\\CSharpMicrosoftCourse\\Part3\\Module4of7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rslab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\siran.laborin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
@@ -65,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
