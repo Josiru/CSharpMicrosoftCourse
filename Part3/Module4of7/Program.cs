@@ -87,8 +87,32 @@ Console.WriteLine($"Your input value {CUserEntry.Trim()} has been accepted");*/
 //Mini Project 3
 string[] CMyStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 int CPeriodLocation = 0;
+int CStringLength = 0;
+string CStringProcess;
 
 foreach (string CString in CMyStrings)
 {
-    
+    if (CString.IndexOf(".") == -1)
+    {
+        Console.WriteLine(CString);
+    }
+    else
+    {
+        CStringProcess = CString;
+        while((CStringLength + CPeriodLocation) < CString.Length)
+        {
+            Console.WriteLine(CStringLength + CPeriodLocation);
+            Console.WriteLine(CString.Length);
+            CPeriodLocation = CStringProcess.IndexOf(".");
+            Console.WriteLine(CStringProcess.Substring(0, CPeriodLocation));
+        
+            CStringProcess = CStringProcess.Remove(0, CPeriodLocation+1).Trim(' ');
+
+            Console.WriteLine(CStringProcess);
+            CStringLength = CStringProcess.Length;
+            Console.WriteLine(CStringLength);
+            //Console.WriteLine(CStringProcess = CStringProcess.Remove(CPeriodLocation, CStringLength).Trim());
+            CPeriodLocation = CStringProcess.IndexOf(".");
+        }
+    }
 }
