@@ -1,0 +1,15 @@
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\bin\Debug\net10.0\Module4of7-Rev.exe
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\bin\Debug\net10.0\Module4of7-Rev.deps.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\bin\Debug\net10.0\Module4of7-Rev.runtimeconfig.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\bin\Debug\net10.0\Module4of7-Rev.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\bin\Debug\net10.0\Module4of7-Rev.pdb
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.AssemblyInfoInputs.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.AssemblyInfo.cs
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.csproj.CoreCompileInputs.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.sourcelink.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\refint\Module4of7-Rev.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.pdb
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\Module4of7-Rev.genruntimeconfig.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module4of7-Rev\obj\Debug\net10.0\ref\Module4of7-Rev.dll
