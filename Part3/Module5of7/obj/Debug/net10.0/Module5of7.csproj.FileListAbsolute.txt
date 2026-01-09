@@ -1,0 +1,15 @@
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\bin\Debug\net10.0\Module5of7.exe
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\bin\Debug\net10.0\Module5of7.deps.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\bin\Debug\net10.0\Module5of7.runtimeconfig.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\bin\Debug\net10.0\Module5of7.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\bin\Debug\net10.0\Module5of7.pdb
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.AssemblyInfoInputs.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.AssemblyInfo.cs
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.csproj.CoreCompileInputs.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.sourcelink.json
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\refint\Module5of7.dll
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.pdb
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\Module5of7.genruntimeconfig.cache
+C:\Users\rslab\Documents\Projects\LearnCsharp\CsharpProjects\CSharpMicrosoftCourse\Part3\Module5of7\obj\Debug\net10.0\ref\Module5of7.dll
